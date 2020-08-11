@@ -1,0 +1,5 @@
+1, Hysteria, Def Leppard
+2, New World Record, Queen
+3, Heartbreak, Tom Petty
+4, Highway to Python, AC/DC
+5, Fear of the Python, Iron Maiden
